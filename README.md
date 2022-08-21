@@ -1,6 +1,6 @@
 # 2DLS (2D Laser Simulation)
-Made By RedSideDevils 
-- @k4sh1r1nkut0
+Made By Trippingcarpet
+- IG: @_armen.ghazaryan_
 
 ![output_HyoIRD](https://github.com/RedSideDevils/2DLS/blob/main/logo.gif)
 
