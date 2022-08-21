@@ -14,10 +14,10 @@ Made By RedSideDevils
 5.Press "Run Simulation"
 ```
 ## Technologies Used
-Python
+#####Python
 - OpenCV
 - Pygame
-C++
+#####C++
 - SFML
 
 
