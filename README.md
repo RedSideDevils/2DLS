@@ -23,7 +23,11 @@ C++
 
 
 
-## Installation:
+## Requirements:
+- g++
+- opencv (pip install opencv-python)
+- pygame
+- SFML
 
 One line installation:
 ```
