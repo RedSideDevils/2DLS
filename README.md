@@ -6,14 +6,21 @@ Made By RedSideDevils
 
 ## How it works
 ```
-1. Change Settings in __init__ section as you prefer.
-2. In f(x)`s return section write your function.
-3. Run Script From Terminal In The Same Directory Where Font And Icon.
+1. Run main.py by python main.py command.
+2. Press "Open Image" and select image.
+3. Press "Show Contours".
+4.1 If you want all contours to print, write -1 in text input.
+4.2 If you want specific contours to print, write contours ids. Example: 1,2,3
+5.Press "Run Simulation"
 ```
-## Features
-- Fast!
-- Easy!
-- Convenient!
+## Technologies Used
+Python
+- OpenCV
+- Pygame
+C++
+- SFML
+
+
 
 ## Installation:
 
