@@ -2,7 +2,7 @@
 Made By RedSideDevils 
 - @k4sh1r1nkut0
 
-![output_HyoIRD](https://i.imgur.com/oRBQGra.gif)
+![output_HyoIRD](https://github.com/RedSideDevils/2DLS/blob/main/logo.gif)
 
 ## How it works
 ```
