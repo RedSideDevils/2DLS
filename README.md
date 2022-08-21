@@ -31,6 +31,6 @@ C++
 
 One line installation:
 ```
-$ git clone https://github.com/YanOScompany/Function-Graphic.git & pip3 install pygame
+$ https://github.com/RedSideDevils/2DLS.git & unzip 2DLS.zip
 ```
 
